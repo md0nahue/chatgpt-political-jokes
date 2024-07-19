@@ -2,7 +2,11 @@
 
 ## background
 
-I have been experimenting recently with using ffmpeg, ruby, AWS Polly TTS, web crawling with watir, and youtube-dlp in order to programmatically create videos meant to be published on youtube.
+Inspired by the brilliant "Nothing, Forever' AI Seinfeld series, I have been experimenting with how to achieve something similar - using generative AI to create video content which can be published to YouTube.
+
+This project uses ChatGPT prompts to create accurate news reporting along with humorous commentary about current events. It is similar in format and humor to the Daily Show.
+
+Other tools used: ffmpeg, ruby, AWS Polly TTS, web crawling with watir, and youtube-dlp.
 
 https://www.youtube.com/watch?v=XuuT3Xspd_U
 https://www.youtube.com/watch?v=2reFQiRv4kk
